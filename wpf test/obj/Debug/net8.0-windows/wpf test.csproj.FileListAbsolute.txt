@@ -1,0 +1,21 @@
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\bin\Debug\net8.0-windows\wpf test.exe
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\bin\Debug\net8.0-windows\wpf test.deps.json
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\bin\Debug\net8.0-windows\wpf test.runtimeconfig.json
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\bin\Debug\net8.0-windows\wpf test.dll
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\bin\Debug\net8.0-windows\wpf test.pdb
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test_MarkupCompile.lref
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.g.resources
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.sourcelink.json
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.dll
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\refint\wpf test.dll
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.pdb
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\wpf test.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\cs-testing\wpf test\obj\Debug\net8.0-windows\ref\wpf test.dll
